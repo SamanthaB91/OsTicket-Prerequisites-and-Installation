@@ -1,1 +1,1 @@
-# OsTicket-Prerequisites-and-Installation
+# osticket-prereqs
