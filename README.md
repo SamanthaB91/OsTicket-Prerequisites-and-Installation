@@ -30,6 +30,7 @@ This project outlines the implementation of Active Directory within Azure Virtua
 
 <h2>Deployment and Configuration Steps</h2>
 
+
 <p>
 <img width="1901" height="1030" alt="image" src="https://github.com/user-attachments/assets/62ba3450-0c8d-470b-a28b-e5130d0363b8" />
 
@@ -38,6 +39,7 @@ This project outlines the implementation of Active Directory within Azure Virtua
 This picture shows that our first step is completed in creating a resource group and a virtual network. Now we are all set to create our virtual machines.
 </p>
 <br />
+
 
 <p>
 <img width="1727" height="816" alt="image" src="https://github.com/user-attachments/assets/33de4a70-73e8-4214-b9f2-331fbef8f3a7" />
@@ -48,12 +50,24 @@ This photo shows we have our resource group, virtual network and our two vitual 
 </p>
 <br />
 
+
 <p>
 <img width="1897" height="1028" alt="image" src="https://github.com/user-attachments/assets/bbf55888-9431-4bde-9855-d422b3490699" />
 
 </p>
 <p>
 This photo shows us changing the private ip address settings from dynamic to static.
+</p>
+<br />
+
+
+<p>
+  <img width="1255" height="862" alt="image" src="https://github.com/user-attachments/assets/3b6b6cbb-471e-4d3c-9a46-d5b2a24165a9" />
+
+</p>
+
+<p>
+ This photo shows what the remote desktop looks like and the login screen for our domain controller's VM. 
 </p>
 <br />
 
