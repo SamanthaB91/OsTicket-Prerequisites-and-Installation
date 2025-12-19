@@ -31,10 +31,11 @@ This project outlines the implementation of Active Directory within Azure Virtua
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1901" height="1030" alt="image" src="https://github.com/user-attachments/assets/62ba3450-0c8d-470b-a28b-e5130d0363b8" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This picture shows that our first step is completed in creating a resource group and a virtual network. Now we are all set to create our virtual machines.
 </p>
 <br />
 
