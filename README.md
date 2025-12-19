@@ -17,8 +17,8 @@ This project outlines the implementation of Active Directory within Azure Virtua
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- Windows Server 2022 Datacenter Azure Edition (21H2)
+- Windows 11 PRO (25H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
