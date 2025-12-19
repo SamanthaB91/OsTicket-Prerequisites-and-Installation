@@ -2,15 +2,15 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Building the Cloud Backbone: Hands-on Active Directory Deployment in Azure</h1>
+This project outlines the implementation of Active Directory within Azure Virtual Machines.<br />
 
 
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
@@ -22,7 +22,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
+- Before you start, you will need to have an active microsoft azure account.
+- The first step will be setting up to create the virtual machines in microsoft azure. To do this you will need to create a resource group and a virtual network (VNET) To create the resource group, type resource group in the search engine and hit search. Then click on resource groups and click create a new resource group. We will name the resource group, azure-test1. Click review and create. Once validated click create. Once completed we will then create our virtual network. We will do the same thing as we did to get to the resource groups, type virtual network in the search engine and click search. You will then click on virtual networks and click create new. Make sure you have your subscription selected and in the section for resource groups make sure it has our newly created resource group, azure-test1. Our virtual network name will be, Azure-projectVnet. In the section for region put, East US 2 (this will be the region we use for our virtual machines, so make sure to write it down somewhere). Click review and create. Once validated click create. After a minute or two both should be completed and we are now all set-up to create our vitual machines(VM's)  
 - Step 2
 - Step 3
 - Step 4
