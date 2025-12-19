@@ -40,10 +40,11 @@ This picture shows that our first step is completed in creating a resource group
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1727" height="816" alt="image" src="https://github.com/user-attachments/assets/33de4a70-73e8-4214-b9f2-331fbef8f3a7" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This photo shows we have our resource group, virtual network and our two vitual machines. We have our set-up complete. 
 </p>
 <br />
 
